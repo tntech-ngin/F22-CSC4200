@@ -5,4 +5,4 @@ all:
 	cd docs
 	git add .
 	git commit -am 'update'
-	git push
+	git push origin master
