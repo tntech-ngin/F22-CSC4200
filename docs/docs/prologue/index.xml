@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prologue on </title>
+    <link>https://tntech-ngin.github.io/F21-CSC6730/docs/prologue/</link>
+    <description>Recent content in Prologue on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://tntech-ngin.github.io/F21-CSC6730/docs/prologue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/prologue/introduction/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/prologue/introduction/</guid>
+      <description>In this class we will be reading several papers in the area of advanced networking. More specifically, we will be looking at papers in the following broad areas:
+ Current Internet Model and the design decisions that led to the current TCP/IP model Autonomous systems and Border gateway protocol Domain name system and how contemporary applications use it Content Delivery Networks and Peer-to-Peer Networks Software Defined Networking Information Centric Networking  There is no textbook for this course.</description>
+    </item>
+    
+  </channel>
+</rss>

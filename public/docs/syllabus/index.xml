@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prologue on </title>
+    <link>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/</link>
+    <description>Recent content in Prologue on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Objectives</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/objectives/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/objectives/</guid>
+      <description>This course stictly enforces the prerequisits (CSC4200/5200 or equivalent). This course assumes you are already familar the basic networking concepts such as TCP/IP, DNS, and BGP. If you are not, this course is not appropriate for you.
+In this class we will cover advanced networking concepts and help students gain an understanding of:
+ The design rational of the Internet how the Internet supports cotemporary applications such as content delivery networks the shortcomings of the current design, and the future research directions that can address those challanges.</description>
+    </item>
+    
+    <item>
+      <title>Reading and Writing</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/reading/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/reading/</guid>
+      <description>We will read and discuss one networking topic each week. The first class is for presentation and the follow-up class is for discussions. For example, we will present a paper on Monday, we will discuss it on Wednesday. For each topic, all participants will read the assigned paper and write a critical review of around 2 pages.  You will write 8 critical reviews over the semester Each review will be approximately 2 pages.</description>
+    </item>
+    
+    <item>
+      <title>Critical Reviews</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/assignments/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/assignments/</guid>
+      <description>Critical Review Template
+In this class you will
+ Submit 8 critical reviews. Critical reviews are due at 10AM the day the paper is first discussed This critical review is around 2 pages, you must use this or an equivalent template. 1 inch margin, 11 point font, single spaced. The critical reviews must be named CR_FirstName_LastName_Topic_MMDD.pdf. For example, CR_Susmit_Shannigrahi_SDN_0811.pdf. You can choose which critical reviews you want write. As the name suggests, you need to be critical.</description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/presentation/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/presentation/</guid>
+      <description>Presentation
+ One of you will present each week. You will pick one topic listed in the schedule and construct a research question. You will use the two listed papers, you will contribute another two papers to the presentation. The presentation will use 4 papers in total. Your presentation will support or refute the reseach question you constructed. The presentations will be 50 mins long. We will then have a Q/A session for 25 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/schedule/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/schedule/</guid>
+      <description>The schedule is tentative and will change.  Getting Started  Week 1 - 08/23
+   Paper URL Presentation Critical Review     Introduction and how to read papers      A 30,000 foot overview of the Current Internet        Fundamental Protocols  Week 2 - 08/30
+  Paper URL Presentation Critical Review     J.</description>
+    </item>
+    
+    <item>
+      <title>Grading</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/grading/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/syllabus/grading/</guid>
+      <description>Grading
+  Course Element Weight      Critical Reviews 40    Presentation 30    Class Participation 20     </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSC 6730 - Advanced Networking  on </title>
+    <link>https://tntech-ngin.github.io/F21-CSC6730/</link>
+    <description>Recent content in CSC 6730 - Advanced Networking  on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
+    
+        <atom:link href="https://tntech-ngin.github.io/F21-CSC6730/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcements</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/blog/</link>
+      <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prologue</title>
+      <link>https://tntech-ngin.github.io/F21-CSC6730/docs/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:45 +0000</pubDate>
+      
+      <guid>https://tntech-ngin.github.io/F21-CSC6730/docs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
