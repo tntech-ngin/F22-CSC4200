@@ -23,8 +23,8 @@ Week 1 -
 - **Programming Assignment 1 Posted**
 ---	
 
-* January 11 - Introduction, What to Expect, Socket Programming [Slides](/csc4200/lecture_slides/TBD.pdf)
-* January 13 - Terminologies, Circuit vs Packet Switching, Layers, Architectures vs Protocols [Slides](/csc4200/lecture_slides/TBD.pdf)
+* January 11 - Introduction, What to Expect, Terminologies, Circuit vs Packet Switching [Slides](/docs/syllabus/files/class_slides-2.pdf)
+* January 13 - Layers, Architectures vs Protocols, Socket Programming [Slides](/csc4200/lecture_slides/TBD.pdf)
 
 -------------------------------------------
 
