@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "CSC6730"
+title = "CSC4200"
 titleSeparator = "-"
-titleAddition = "Advanced Networking"
-description = "This is the advanced networking class taught by Prof. Susmit Shannigrahi at Tennessee Tech Univeristy"
+titleAddition = "Computer Networking"
+description = "This is the computer networking class taught by Prof. Susmit Shannigrahi at Tennessee Tech Univeristy"
 
 ## Open Graph
 images = ["doks.png"]
