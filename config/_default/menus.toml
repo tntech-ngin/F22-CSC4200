@@ -15,6 +15,17 @@
   name = "Announcements"
   url = "/blog/"
   weight = 1
+  
+[[main]]
+  name = "Recordings"
+  url = "https://www.youtube.com/playlist?list=PLoeVZUuIc1Bj3U7aOPA2yuwGmF1B-Go2M"
+  weight = 2  
+
+[[main]]
+  name = "COVID-19"
+  url = "https://www.tntech.edu/covid19/index.php"
+  weight = 3
+
 
 #[[main]]
 #  name = "Syllabus"

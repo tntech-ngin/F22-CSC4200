@@ -23,6 +23,8 @@ toc: true
 |Critical Reviews| 40 |
 |Presentation | 30 | 
 |Class Participation| 20| 
+|Midterm | No Midterm|
+|Final | No Final|
 {.table-striped}
 
 

@@ -3,8 +3,8 @@
 ## Homepage
 title = "CSC6730"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Advanced Networking"
+description = "This is the advanced networking class taught by Prof. Susmit Shannigrahi at Tennessee Tech Univeristy"
 
 ## Open Graph
 images = ["doks.png"]
