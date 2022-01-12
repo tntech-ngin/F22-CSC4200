@@ -14,23 +14,9 @@ toc: true
 ---
 
 
-    
-**This course strictly enforces the prerequisites ([CSC4200/5200 or equivalent](https://tntech-ngin.github.io/csc4200/syllabus/index.html)). This course assumes you are already familiar the basic networking concepts such as TCP/IP, DNS, and BGP. If you are not, this course is not appropriate for you.**
+In this class we will cover advanced networking concepts and help students gain an understanding of the current network model, what it takes to connect a device to a network, and how the Internet works. 
 
-
-
-In this class we will cover advanced networking concepts and help students gain an understanding of the following:
-
-
-1. The design rationale of the Internet 
-2. how the Internet supports contemporary applications such as content delivery networks 
-3. the shortcomings of the current design, and 
-4. the future research directions that can address those challenges. 
-
-By the end of the course, students should be able to
-1. Have an understanding of the networking research landscape
-2. Comprehend research papers in the area of advanced networking
-3. Present their work to a larger group, both orally and in writing
-2. Identify and present design choices, tradeoffs, and research gaps
-4. Design new network protocols and apply them to application use cases
+By the end of the course, the students will 
+1. have an understanding of network layers and basic protocols, how the Internet works
+2. able to write programs to interact with remote services hosted on the Internet. 
 

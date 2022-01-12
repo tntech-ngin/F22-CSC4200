@@ -17,14 +17,14 @@ toc: true
 
 **Grading**
 
+Final grade will depend on relative distribution of scores.
 
 |Course Element| Weight  | 
 |-|-|-:|
-|Critical Reviews| 40 |
-|Presentation | 30 | 
-|Class Participation| 20| 
-|Midterm | No Midterm|
-|Final | No Final|
+|All Homeworks combined |15%|
+|Programming Assignments| 35%|
+|Exams |35%|
+|Class participation|15%|
 {.table-striped}
 
 
