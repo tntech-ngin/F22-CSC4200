@@ -19,12 +19,12 @@ toc: true
 Week 1 - 
 
 ---
-- **Reading assignment for week 1** - [Introduction](https://book.systemsapproach.org/foundation/problem.html#problem-building-a-network), [Chapter 1.2](https://book.systemsapproach.org/foundation/requirements.html#requirements), and [Chapter 1.3](https://book.systemsapproach.org/foundation/architecture.html#architecture) 
+- **Reading assignment for week 1** - [Introduction](https://book.systemsapproach.org/foundation/problem.html#problem-building-a-network), [Chapter 1.2](https://book.systemsapproach.org/foundation/requirements.html#requirements), and [Chapter 1.3](https://book.systemsapproach.org/foundation/architecture.html#architecture), [Chapter 1.5](https://book.systemsapproach.org/foundation/performance.html) 
 - **Programming Assignment 1 Posted**
 ---	
 
 * January 11 - Introduction, What to Expect, Terminologies, Circuit vs Packet Switching [Slides](/docs/syllabus/files/class_slides-2.pdf)
-* January 13 - Layers [Slides](/docs/syllabus/files/class_slides-3.pdf)
+* January 13 - Layers, Performance [Slides](/docs/syllabus/files/class_slides-3.pdf)
 
 -------------------------------------------
 Week 2- 
