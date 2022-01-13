@@ -15,4 +15,4 @@ weight: 8
 toc: true
 
 ---
-You can view the recordings [here](https://youtube.com).
+You can view the recordings [here](https://www.youtube.com/playlist?list=PLoeVZUuIc1BiHeWWbWCa8fjhdtldQHhdE).
