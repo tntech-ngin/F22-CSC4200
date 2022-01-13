@@ -24,10 +24,12 @@ Week 1 -
 ---	
 
 * January 11 - Introduction, What to Expect, Terminologies, Circuit vs Packet Switching [Slides](/docs/syllabus/files/class_slides-2.pdf)
-* January 13 - Layers, Architectures vs Protocols, Socket Programming [Slides](/csc4200/lecture_slides/TBD.pdf)
+* January 13 - Layers[Slides](/docs/syllabus/files/class_slides-3.pdf)
 
 -------------------------------------------
-
+Week 2- 
+* January 18 - Architectures vs Protocols, Link Layer, Socket Programming [Slides](/docs/syllabus/files/class_slides-3.pdf)
+* January 20 - [Slides](/docs/syllabus/files/class_slides-3.pdf)
  
 **Jan 23 - Last day to drop class**
 
