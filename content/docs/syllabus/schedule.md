@@ -28,8 +28,8 @@ Week 1 -
 
 -------------------------------------------
 Week 2- 
-* January 18 - Architectures vs Protocols, Link Layer, Socket Programming [Slides](/docs/syllabus/files/class_slides-3.pdf)
-* January 20 - [Slides](/docs/syllabus/files/class_slides-3.pdf)
+* January 18 - Architectures vs Protocols, Link Layer, Socket Programming [Slides](/docs/syllabus/files/class_slides-3.1.pdf)
+* January 20 - Link Layer, Socket Programming [Slides](/docs/syllabus/files/class_slides-3.2.pdf)
  
 **Jan 23 - Last day to drop class**
 
