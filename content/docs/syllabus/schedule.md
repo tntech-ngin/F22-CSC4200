@@ -32,6 +32,7 @@ Week 2-
 * January 20 - Link Layer, Socket Programming [Slides](/docs/syllabus/files/class_slides-3.2.pdf) [Slides](/docs/syllabus/files/socket.pdf)
  
 **Jan 23 - Last day to drop class**
+
 -------------------------------------------
 Week 3- 
 * January 25 - Link Layer, Ethernet [Slides](/docs/syllabus/files/class_slides-4.pdf)
@@ -40,6 +41,7 @@ Week 3-
 -------------------------------------------
 Week 4 - 
 * Feb 01 - Recap [Slides](/docs/syllabus/files/class_slides-6.pdf)
+* Feb 03 - Switching and IP [Slides](/docs/syllabus/files/class_slides-10.pdf)
 
 **Mar 15 - Mar 17 - Spring Break, no class**
 
