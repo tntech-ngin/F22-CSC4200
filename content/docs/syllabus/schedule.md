@@ -43,6 +43,11 @@ Week 4 -
 * Feb 01 - Recap [Slides](/docs/syllabus/files/class_slides-6.pdf)
 * Feb 03 - Switching and IP [Slides](/docs/syllabus/files/class_slides-10.pdf)
 
+-------------------------------------------
+Week 5 - 
+* Feb 08 - IP [Slides](/docs/syllabus/files/class_slides-10.pdf)
+* Feb 10 - ARP, DHCP [Slides](/docs/syllabus/files/class_slides-11.pdf)
+
 **Mar 15 - Mar 17 - Spring Break, no class**
 
 **Mar 22 - Midterm**
