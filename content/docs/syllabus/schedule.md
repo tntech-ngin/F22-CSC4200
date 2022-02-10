@@ -46,11 +46,14 @@ Week 4 -
 -------------------------------------------
 Week 5 - 
 * Feb 08 - IP [Slides](/docs/syllabus/files/class_slides-10.pdf)
-* Feb 10 - ARP, DHCP [Slides](/docs/syllabus/files/class_slides-11.pdf)
+* Feb 10 - ARP, DHCP, NAT [Slides](/docs/syllabus/files/class_slides-11.pdf)
+
+
+**Feb 28th - Exam 1
+
+**March 21 - Exam 2
 
 **Mar 15 - Mar 17 - Spring Break, no class**
-
-**Mar 22 - Midterm**
 
 **Mar 25 - Last day to withdraw**
 
