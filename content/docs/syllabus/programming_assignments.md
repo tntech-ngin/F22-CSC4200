@@ -14,8 +14,7 @@ toc: true
 ---
 
 * Programming Assigment 1 - Due 01/18, 10PM CST
-	- [Description](/docs/syllabus/files/pa1.pdf)
-	
+	- [Description](/docs/syllabus/files/pa1.pdf)	
 	
 * Programming Assigment 2 - Due 01/31, 10PM CST
 	- [Description](/docs/syllabus/files/pa2.pdf)
