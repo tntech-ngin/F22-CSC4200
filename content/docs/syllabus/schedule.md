@@ -48,6 +48,11 @@ Week 5 -
 * Feb 08 - IP [Slides](/docs/syllabus/files/class_slides-10.pdf)
 * Feb 10 - ARP, DHCP, NAT [Slides](/docs/syllabus/files/class_slides-11.pdf)
 
+-------------------------------------------
+Week 5 - 
+* Feb 15 - DHCP, Routing [Slides](/docs/syllabus/files/class_slides-12.pdf)
+* Feb 17 - Routing Continued [Slides](/docs/syllabus/files/class_slides-XX.pdf)
+
 
 **Feb 28th - Exam 1
 
