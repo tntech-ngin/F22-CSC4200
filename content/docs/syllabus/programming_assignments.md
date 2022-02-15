@@ -1,5 +1,5 @@
 ---
-title: "Programming Assignments"
+title: "Assignments"
 description: ""
 lead: ""
 date: 2020-10-06T08:48:57+00:00
@@ -19,3 +19,10 @@ toc: true
 	
 * Programming Assigment 2 - Due 01/31, 10PM CST
 	- [Description](/docs/syllabus/files/pa2.pdf)
+	
+* Homework 1 - Due 02/08, 10PM CST
+	- [Description](/docs/syllabus/files/hw1.pdf)
+	
+* Programming Assigment 3 - Due 02/24, 10PM CST
+	- [Description](/docs/syllabus/files/pa3.pdf)
+	
