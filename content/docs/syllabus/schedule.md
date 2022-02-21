@@ -51,7 +51,13 @@ Week 5 -
 -------------------------------------------
 Week 5 - 
 * Feb 15 - DHCP, Routing [Slides](/docs/syllabus/files/class_slides-12.pdf)
-* Feb 17 - Routing Continued [Slides](/docs/syllabus/files/class_slides-XX.pdf)
+* Feb 17 - Routing Continued [Slides](/docs/syllabus/files/class_slides-14.pdf)
+
+
+-------------------------------------------
+Week 6 - 
+* Feb 22 - Interdomain Routing [Slides](/docs/syllabus/files/class_slides-16.pdf)
+* Feb 24 - Interdomain Routing Continued [Slides](/docs/syllabus/files/class_slides-16.pdf)
 
 
 **Feb 28th - Exam 1
