@@ -19,7 +19,7 @@ toc: true
 
 
 **Sample Exam**
-* [Sample Exam](/docs/syllabus/files/ungraded_quiz.pdf)
+* [Sample Exam](/docs/syllabus/files/ungraded-quiz.pdf)
 
 
 **Study guides**
