@@ -19,9 +19,12 @@ toc: true
 
 
 **Sample Exam**
-* [Sample Exam](/docs/syllabus/files/ungraded_exam.pdf)
+* [Sample Exam](/docs/syllabus/files/ungraded_quiz.pdf)
 
 
 **Study guides**
 * [Study Guide 1](/docs/syllabus/files/study-guide.pdf)
 
+
+**Quiz 1 Solution**
+* [Quiz 1 Solution](/docs/syllabus/files/hw1-sol.pdf)
