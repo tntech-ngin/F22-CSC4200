@@ -25,3 +25,6 @@ toc: true
 * Programming Assigment 3 - Due 02/24, 10PM CST
 	- [Description](/docs/syllabus/files/pa3.pdf)
 	
+* Homework 2 - Due 03/04, 10PM CST
+	- [Description](/docs/syllabus/files/hw2.pdf)
+		
