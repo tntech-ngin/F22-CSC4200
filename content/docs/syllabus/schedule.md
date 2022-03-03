@@ -60,7 +60,20 @@ Week 6 -
 * Feb 24 - Interdomain Routing Continued [Slides](/docs/syllabus/files/class_slides-16.pdf)
 
 
-**Feb 28th - Exam 1
+**March 1 - Exam 1
+
+-------------------------------------------
+Week 7 - 
+* March 3 - Interdomain Routing Recap [Slides](/docs/syllabus/files/class_slides-18.pdf)
+* March 8 - Transport layer [Slides](/docs/syllabus/files/class_slides-XX.pdf)
+
+
+-------------------------------------------
+
+**March 1 - Exam 1
+
+
+
 
 **March 21 - Exam 2
 
