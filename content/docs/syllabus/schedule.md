@@ -64,7 +64,7 @@ Week 6 -
 
 -------------------------------------------
 Week 7 - 
-* March 3 - Interdomain Routing Recap [Slides](/docs/syllabus/files/class_slides-18.pdf)
+* March 3 - Interdomain Routing Recap [Slides](/docs/syllabus/files/class_slides-19.pdf)
 * March 8 - Transport layer [Slides](/docs/syllabus/files/class_slides-XX.pdf)
 
 
