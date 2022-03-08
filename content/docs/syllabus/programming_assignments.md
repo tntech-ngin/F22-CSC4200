@@ -28,3 +28,6 @@ toc: true
 * Homework 2 - Due 03/04, 10PM CST
 	- [Description](/docs/syllabus/files/hw2.pdf)
 		
+* Programming Assignment 4 - Due 03/25, 10PM CST
+	- [Description](/docs/syllabus/files/pa4.pdf)
+		

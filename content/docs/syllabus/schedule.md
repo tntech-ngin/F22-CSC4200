@@ -65,19 +65,15 @@ Week 6 -
 -------------------------------------------
 Week 7 - 
 * March 3 - Interdomain Routing Recap [Slides](/docs/syllabus/files/class_slides-19.pdf)
-* March 8 - Transport layer [Slides](/docs/syllabus/files/class_slides-XX.pdf)
+* March 8 - Transport layer [Slides](/docs/syllabus/files/class_slides-20.pdf)
 
-
+-------------------------------------------
+**Mar 15 - Mar 17 - Spring Break, no class**
 -------------------------------------------
 
 **March 1 - Exam 1
 
-
-
-
-**March 21 - Exam 2
-
-**Mar 15 - Mar 17 - Spring Break, no class**
+**March 31 - Exam 2
 
 **Mar 25 - Last day to withdraw**
 
