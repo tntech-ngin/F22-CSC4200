@@ -59,14 +59,14 @@ Week 6 -
 * Feb 22 - Interdomain Routing [Slides](/docs/syllabus/files/class_slides-16.pdf)
 * Feb 24 - Interdomain Routing Continued [Slides](/docs/syllabus/files/class_slides-16.pdf)
 
-
-**March 1 - Exam 1
-
 -------------------------------------------
 Week 7 - 
+**March 1 - Exam 1
 * March 3 - Interdomain Routing Recap [Slides](/docs/syllabus/files/class_slides-19.pdf)
+-------------------------------------------
+Week 8 - 
 * March 8 - Transport layer [Slides](/docs/syllabus/files/class_slides-20.pdf)
-
+* March 10 - Transport layer [Slides](/docs/syllabus/files/class_slides-21.pdf)
 -------------------------------------------
 **Mar 15 - Mar 17 - Spring Break, no class**
 -------------------------------------------
