@@ -71,12 +71,17 @@ Week 8 -
 **Mar 15 - Mar 17 - Spring Break, no class**
 -------------------------------------------
 * March 22 - Transport layer [Slides](/docs/syllabus/files/class_slides-23.pdf)
+* March 24 - Transport layer [Slides](/docs/syllabus/files/class_slides-23.pdf)
+**Mar 25 - Last day to withdraw**
+
+-------------------------------------------
+* March 29 - Transport layer Wrap up [Slides](/docs/syllabus/files/class_slides-25.pdf)
+* March 31 - HTTP [Slides](/docs/syllabus/files/class_slides-XX.pdf)
+
+-------------------------------------------
 
 **March 1 - Exam 1
-
-**March 31 - Exam 2
-
-**Mar 25 - Last day to withdraw**
+**Apr 5 - Exam 2
 
 **Apr 14 - No class day!**
 
