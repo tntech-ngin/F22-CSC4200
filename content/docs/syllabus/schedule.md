@@ -69,9 +69,11 @@ Week 8 -
 * March 10 - Transport layer [Slides](/docs/syllabus/files/class_slides-21.pdf)
 -------------------------------------------
 **Mar 15 - Mar 17 - Spring Break, no class**
+
 -------------------------------------------
 * March 22 - Transport layer [Slides](/docs/syllabus/files/class_slides-23.pdf)
 * March 24 - Transport layer [Slides](/docs/syllabus/files/class_slides-23.pdf)
+
 **Mar 25 - Last day to withdraw**
 
 -------------------------------------------
