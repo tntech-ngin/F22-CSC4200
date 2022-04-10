@@ -31,3 +31,6 @@ toc: true
 * Programming Assignment 4 - Due 03/25, 10PM CST
 	- [Description](/docs/syllabus/files/pa4.pdf)
 		
+* Programming Assignment 5 - Due 04/26, 10PM CST
+	- [Description](/docs/syllabus/files/pa5.pdf)
+		
