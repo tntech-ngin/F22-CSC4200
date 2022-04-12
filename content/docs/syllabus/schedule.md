@@ -81,6 +81,14 @@ Week 8 -
 * March 31 - HTTP [Slides](/docs/syllabus/files/class_slides-XX.pdf)
 
 -------------------------------------------
+* April 5 - Exam
+* April 7 - DNS [Slides](/docs/syllabus/files/class_slides-26.pdf)
+-------------------------------------------
+* April 12 - Network Security [Slides](/docs/syllabus/files/class_slides-27.pdf)
+* April 14 - No Class
+
+
+
 
 **March 1 - Exam 1
 **Apr 5 - Exam 2
