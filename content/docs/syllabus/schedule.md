@@ -87,6 +87,9 @@ Week 8 -
 * April 12 - Network Security [Slides](/docs/syllabus/files/class_slides-27.pdf)
 * April 14 - No Class
 
+-------------------------------------------
+* April 19 - Network Security - Continued [Slides](/docs/syllabus/files/class_slides-28.pdf)
+* April 21 - 
 
 
 
