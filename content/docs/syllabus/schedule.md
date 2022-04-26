@@ -89,7 +89,11 @@ Week 8 -
 
 -------------------------------------------
 * April 19 - Network Security - Continued [Slides](/docs/syllabus/files/class_slides-28.pdf)
-* April 21 - 
+* April 21 - Network Security - Continued [Slides](/docs/syllabus/files/class_slides-28.pdf)
+
+-------------------------------------------
+* April 26 - Next Generation Networking - [Slides](/docs/syllabus/files/class_slides-29.pdf)
+
 
 
 
