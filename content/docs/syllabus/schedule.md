@@ -78,7 +78,7 @@ Week 8 -
 
 -------------------------------------------
 * March 29 - Transport layer Wrap up [Slides](/docs/syllabus/files/class_slides-25.pdf)
-* March 31 - HTTP [Slides](/docs/syllabus/files/class_slides-XX.pdf)
+* March 31 - HTTP adn Email [Slides](/docs/syllabus/files/class_slides-25.1.pdf)
 
 -------------------------------------------
 * April 5 - Exam
